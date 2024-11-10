@@ -1,0 +1,7 @@
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#FDFBFB"/> <!-- 背景色 -->
+    <stroke
+        android:width="2dp"
+        android:color="#141313"/> <!-- 边框颜色 -->
+
+</shape>
